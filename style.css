@@ -223,6 +223,10 @@ footer {
     margin-top: 5rem;
 }
 
+.footer .links-container h2{
+    color: #ffffff;
+}
+
 .footer .links-container ul {
     margin: 0;
     padding: 0;
